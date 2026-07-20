@@ -1,0 +1,1124 @@
+{
+ "lookups": {
+  "1632650": {
+   "date": "May 25, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1154350": {
+   "date": "Oct 8, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "2538330": {
+   "date": "Feb 5, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2377360": {
+   "date": "Apr 26, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2258020": {
+   "date": "Feb 17, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1788850": {
+   "date": "Jul 14, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "1581380": {
+   "date": "Aug 4, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "749520": {
+   "date": "Dec 28, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "1504740": {
+   "date": "Feb 21, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "3333610": {
+   "date": "Dec 20, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1189740": {
+   "date": "Jan 16, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1182090": {
+   "date": "Nov 13, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "1540350": {
+   "date": "Oct 4, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2233900": {
+   "date": "Jan 27, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2306400": {
+   "date": "Apr 6, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "534380": {
+   "date": "Feb 3, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "1162680": {
+   "date": "Oct 25, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "853480": {
+   "date": "May 10, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "2137660": {
+   "date": "Jan 9, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "747360": {
+   "date": "Jun 7, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "3320330": {
+   "date": "Dec 30, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2242760": {
+   "date": "Jan 13, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "3513560": {
+   "date": "Feb 28, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "2556950": {
+   "date": "Sep 27, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1042910": {
+   "date": "Feb 28, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1896190": {
+   "date": "Jun 30, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3337690": {
+   "date": "Dec 11, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2884020": {
+   "date": "Mar 29, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2554930": {
+   "date": "Oct 28, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1874340": {
+   "date": "Feb 4, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2217840": {
+   "date": "Dec 9, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2863530": {
+   "date": "Apr 21, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1580260": {
+   "date": "Apr 6, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1531460": {
+   "date": "Feb 10, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "3102130": {
+   "date": "Aug 9, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1554170": {
+   "date": "Aug 2, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2980940": {
+   "date": "Jun 10, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2904510": {
+   "date": "Apr 12, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2484180": {
+   "date": "Sep 18, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1265650": {
+   "date": "Apr 5, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3625360": {
+   "date": "Apr 15, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "703940": {
+   "date": "Sep 8, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "1715730": {
+   "date": "Sep 15, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3094220": {
+   "date": "Aug 8, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1452020": {
+   "date": "Jun 22, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "788610": {
+   "date": "Jun 4, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "2636420": {
+   "date": "Dec 2, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2992740": {
+   "date": "Jul 17, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "954530": {
+   "date": "Oct 16, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "2102680": {
+   "date": "Jan 19, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1408200": {
+   "date": "Sep 26, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1276590": {
+   "date": "May 28, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2283380": {
+   "date": "Aug 25, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2615010": {
+   "date": "May 22, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1457930": {
+   "date": "Dec 11, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2307780": {
+   "date": "May 17, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1575450": {
+   "date": "Dec 16, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3103480": {
+   "date": "Nov 11, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "255520": {
+   "date": "Oct 11, 2013",
+   "coming": false,
+   "type": "game"
+  },
+  "355860": {
+   "date": "Sep 14, 2015",
+   "coming": false,
+   "type": "game"
+  },
+  "3011850": {
+   "date": "Jun 17, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1911900": {
+   "date": "Jul 28, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3040240": {
+   "date": "Dec 18, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2961870": {
+   "date": "Oct 23, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2188820": {
+   "date": "Nov 21, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2497560": {
+   "date": "Nov 30, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1417930": {
+   "date": "Sep 20, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1963600": {
+   "date": "May 31, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "690580": {
+   "date": "Aug 24, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "2376980": {
+   "date": "Apr 21, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1917550": {
+   "date": "Jul 13, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "3651710": {
+   "date": "May 30, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "3099840": {
+   "date": "Sep 14, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "251410": {
+   "date": "Oct 17, 2013",
+   "coming": false,
+   "type": "game"
+  },
+  "820020": {
+   "date": "Apr 10, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2237720": {
+   "date": "Dec 21, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2807150": {
+   "date": "May 22, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1334580": {
+   "date": "Oct 29, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2290500": {
+   "date": "Jul 10, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1191540": {
+   "date": "Nov 21, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "2763370": {
+   "date": "Feb 10, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "321270": {
+   "date": "Sep 29, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "2502390": {
+   "date": "Aug 8, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1386980": {
+   "date": "Aug 25, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2195720": {
+   "date": "Jan 19, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "891120": {
+   "date": "Aug 3, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "2759770": {
+   "date": "Jan 27, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2204810": {
+   "date": "Jan 29, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "50990": {
+   "date": "Apr 21, 2010",
+   "coming": false,
+   "type": "game"
+  },
+  "3184210": {
+   "date": "Dec 12, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "3616450": {
+   "date": "Aug 22, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1803570": {
+   "date": "Oct 25, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2485540": {
+   "date": "Aug 29, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1789220": {
+   "date": "Jan 17, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2385090": {
+   "date": "Apr 28, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "854570": {
+   "date": "Dec 27, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "72000": {
+   "date": "Sep 7, 2012",
+   "coming": false,
+   "type": "game"
+  },
+  "2476070": {
+   "date": "Jul 15, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "997000": {
+   "date": "Apr 23, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "337340": {
+   "date": "Dec 14, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "989710": {
+   "date": "Apr 29, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "3203130": {
+   "date": "Oct 28, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2995220": {
+   "date": "Jun 13, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2236480": {
+   "date": "Dec 29, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "1785120": {
+   "date": "Mar 31, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "551650": {
+   "date": "Feb 27, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "478210": {
+   "date": "May 27, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "1522960": {
+   "date": "Mar 3, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1282200": {
+   "date": "Apr 27, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1620700": {
+   "date": "Jun 17, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1855580": {
+   "date": "Sep 23, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1897520": {
+   "date": "Feb 23, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "3334660": {
+   "date": "Dec 26, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1372470": {
+   "date": "Jul 5, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "3123920": {
+   "date": "Apr 22, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "3109800": {
+   "date": "Apr 16, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "376130": {
+   "date": "Aug 11, 2015",
+   "coming": false,
+   "type": "game"
+  },
+  "659480": {
+   "date": "Aug 1, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "2414320": {
+   "date": "Jun 6, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "793510": {
+   "date": "Feb 23, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "1070850": {
+   "date": "Oct 30, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1655430": {
+   "date": "Jun 17, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "707580": {
+   "date": "Oct 3, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "2495340": {
+   "date": "Jul 21, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2883660": {
+   "date": "Apr 30, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1633100": {
+   "date": "Aug 21, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "2638240": {
+   "date": "May 9, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "3412070": {
+   "date": "Feb 28, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1888930": {
+   "date": "Mar 28, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "3561580": {
+   "date": "Apr 11, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1023510": {
+   "date": "Mar 7, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "2478640": {
+   "date": "Apr 3, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "514520": {
+   "date": "Aug 18, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "2004770": {
+   "date": "May 23, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "543390": {
+   "date": "May 22, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "1597260": {
+   "date": "Apr 30, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "2666390": {
+   "date": "Jan 19, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2137700": {
+   "date": "Sep 1, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "3064410": {
+   "date": "Jul 15, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1904880": {
+   "date": "Apr 23, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "722040": {
+   "date": "Oct 13, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "668580": {
+   "date": "Feb 20, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1005420": {
+   "date": "Sep 4, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "280640": {
+   "date": "Mar 11, 2014",
+   "coming": false,
+   "type": "game"
+  },
+  "453780": {
+   "date": "Oct 20, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "1121550": {
+   "date": "Aug 28, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1637300": {
+   "date": "Nov 16, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "3001650": {
+   "date": "Jun 9, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2709810": {
+   "date": "Dec 23, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2339930": {
+   "date": "Mar 24, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1343580": {
+   "date": "Jul 2, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2347580": {
+   "date": "Mar 29, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "893180": {
+   "date": "Jan 10, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "1451940": {
+   "date": "Jan 21, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "1496930": {
+   "date": "Mar 3, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "440630": {
+   "date": "Jul 5, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "1407000": {
+   "date": "Oct 17, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "680680": {
+   "date": "Sep 1, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "1725130": {
+   "date": "Sep 27, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1737620": {
+   "date": "Oct 25, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "402620": {
+   "date": "Feb 12, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "775520": {
+   "date": "Jan 5, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "1925710": {
+   "date": "Apr 9, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2487140": {
+   "date": "May 3, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "651640": {
+   "date": "Jan 25, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "3340220": {
+   "date": "Mar 9, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "22000": {
+   "date": "Oct 13, 2008",
+   "coming": false,
+   "type": "game"
+  },
+  "720940": {
+   "date": "Jun 7, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "2152190": {
+   "date": "Oct 17, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2741490": {
+   "date": "Apr 23, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "3201810": {
+   "date": "Oct 31, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "3061970": {
+   "date": "Apr 25, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "3433640": {
+   "date": "Apr 29, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "594650": {
+   "date": "Aug 27, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "354240": {
+   "date": "Mar 26, 2015",
+   "coming": false,
+   "type": "game"
+  },
+  "1694380": {
+   "date": "Aug 27, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "239250": {
+   "date": "Feb 25, 2014",
+   "coming": false,
+   "type": "game"
+  },
+  "226560": {
+   "date": "Nov 18, 2014",
+   "coming": false,
+   "type": "game"
+  },
+  "1376040": {
+   "date": "Aug 19, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2871500": {
+   "date": "Jun 7, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1129310": {
+   "date": "Apr 14, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "80": {
+   "date": "Mar 1, 2004",
+   "coming": false,
+   "type": "game"
+  },
+  "2294880": {
+   "date": "Aug 11, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "2242310": {
+   "date": "Jul 28, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1045840": {
+   "date": "Sep 26, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "1415370": {
+   "date": "Sep 28, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1349230": {
+   "date": "Jul 22, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "2290310": {
+   "date": "Mar 10, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "1394990": {
+   "date": "Feb 28, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1188250": {
+   "date": "Nov 23, 2019",
+   "coming": false,
+   "type": "game"
+  },
+  "2835590": {
+   "date": "Mar 28, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1414710": {
+   "date": "Sep 21, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "574310": {
+   "date": "Feb 17, 2017",
+   "coming": false,
+   "type": "game"
+  },
+  "233190": {
+   "date": "Nov 5, 2013",
+   "coming": false,
+   "type": "game"
+  },
+  "2558330": {
+   "date": "Sep 6, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "436860": {
+   "date": "Jan 29, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "2211730": {
+   "date": "May 3, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "720730": {
+   "date": "Apr 24, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "1756180": {
+   "date": "Apr 28, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "917940": {
+   "date": "May 10, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "951010": {
+   "date": "Oct 24, 2018",
+   "coming": false,
+   "type": "game"
+  },
+  "393820": {
+   "date": "Mar 25, 2016",
+   "coming": false,
+   "type": "game"
+  },
+  "2363930": {
+   "date": "Apr 7, 2023",
+   "coming": false,
+   "type": "game"
+  },
+  "395160": {
+   "date": "Oct 20, 2015",
+   "coming": false,
+   "type": "game"
+  },
+  "324160": {
+   "date": "Nov 23, 2015",
+   "coming": false,
+   "type": "game"
+  },
+  "2093110": {
+   "date": "Sep 5, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "1544540": {
+   "date": "May 31, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "1555110": {
+   "date": "Aug 13, 2021",
+   "coming": false,
+   "type": "game"
+  },
+  "3390200": {
+   "date": "May 1, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "2956820": {
+   "date": "Oct 4, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "334230": {
+   "date": "Dec 15, 2014",
+   "coming": false,
+   "type": "game"
+  },
+  "3266620": {
+   "date": "Apr 4, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "3728880": {
+   "date": "May 29, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1322290": {
+   "date": "Oct 28, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "1562690": {
+   "date": "Apr 17, 2025",
+   "coming": false,
+   "type": "game"
+  },
+  "1359900": {
+   "date": "Nov 4, 2020",
+   "coming": false,
+   "type": "game"
+  },
+  "3221420": {
+   "date": "Oct 18, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "2879800": {
+   "date": "Aug 26, 2024",
+   "coming": false,
+   "type": "game"
+  },
+  "1617890": {
+   "date": "Nov 10, 2022",
+   "coming": false,
+   "type": "game"
+  },
+  "2397240": {
+   "date": "Nov 16, 2024",
+   "coming": false,
+   "type": "game"
+  }
+ },
+ "result": {
+  "tag": "Horror",
+  "catalog": 10896,
+  "paid": 9584,
+  "sampled": 220,
+  "unknown": 0,
+  "recent_since": "2023-07",
+  "recent": {
+   "n": 82,
+   "median": 10000,
+   "ge100k": 2.4,
+   "ge1m": 0.0
+  },
+  "older": {
+   "n": 138,
+   "median": 10000,
+   "ge100k": 23.9,
+   "ge1m": 5.8
+  }
+ }
+}

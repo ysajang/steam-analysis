@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/_enrich_cache.json
+dashboard.html

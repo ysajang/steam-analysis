@@ -1,0 +1,7 @@
+{
+  "comment": "지옥탈출 벤치마크 워치리스트 — appids에 숫자 추가/제거 후 python watch.py 실행",
+  "appids": [
+    4704690,
+    559650
+  ]
+}

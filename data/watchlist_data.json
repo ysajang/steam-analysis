@@ -1,6 +1,6 @@
 {
   "schema": "steam-analysis.watchlist.v1",
-  "updated_at": "2026-07-20T00:22:37.319241+00:00",
+  "updated_at": "2026-07-20T00:24:48.811141+00:00",
   "entries": [
     {
       "appid": 4704690,
@@ -24,17 +24,23 @@
           "at": "2026-07-20T00:22:32.338241+00:00",
           "ccu": 44442,
           "total_reviews": 70043
+        },
+        {
+          "at": "2026-07-20T00:24:41.819476+00:00",
+          "ccu": 43952,
+          "total_reviews": 70043
         }
       ],
-      "ccu": 44442,
+      "ccu": 43952,
       "total_reviews": 70043,
       "positive": 61005,
       "negative": 9038,
       "review_score_desc": "Very Positive",
       "name": "MECCHA CHAMELEON",
       "is_free": false,
-      "price_cents": 599,
-      "release_date": "Jun 9, 2026",
+      "price_cents": 655000,
+      "price_formatted": "₩ 6,550",
+      "release_date": "9 Jun, 2026",
       "release_quarter": "2026-Q2",
       "genres": [
         "Casual"
@@ -62,6 +68,11 @@
           "at": "2026-07-20T00:22:37.319167+00:00",
           "ccu": 24,
           "total_reviews": 19844
+        },
+        {
+          "at": "2026-07-20T00:24:48.811064+00:00",
+          "ccu": 24,
+          "total_reviews": 19844
         }
       ],
       "ccu": 24,
@@ -72,6 +83,7 @@
       "name": "Witch It",
       "is_free": false,
       "price_cents": 2400000,
+      "price_formatted": "₩ 24,000",
       "release_date": "22 Oct, 2020",
       "release_quarter": "2020-Q4",
       "genres": [

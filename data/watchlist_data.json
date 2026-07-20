@@ -1,6 +1,6 @@
 {
   "schema": "steam-analysis.watchlist.v1",
-  "updated_at": "2026-07-19T19:31:36.589658+00:00",
+  "updated_at": "2026-07-20T00:20:52.782586+00:00",
   "entries": [
     {
       "appid": 4704690,
@@ -9,17 +9,22 @@
           "at": "2026-07-19T19:31:31.629331+00:00",
           "ccu": 50563,
           "total_reviews": 69874
+        },
+        {
+          "at": "2026-07-20T00:20:47.679318+00:00",
+          "ccu": 43952,
+          "total_reviews": 70043
         }
       ],
-      "ccu": 50563,
-      "total_reviews": 69874,
-      "positive": 60849,
-      "negative": 9025,
+      "ccu": 43952,
+      "total_reviews": 70043,
+      "positive": 61005,
+      "negative": 9038,
       "review_score_desc": "Very Positive",
       "name": "MECCHA CHAMELEON",
       "is_free": false,
-      "price_cents": 655000,
-      "release_date": "9 Jun, 2026",
+      "price_cents": 599,
+      "release_date": "Jun 9, 2026",
       "release_quarter": "2026-Q2",
       "genres": [
         "Casual"
@@ -32,17 +37,22 @@
           "at": "2026-07-19T19:31:36.589577+00:00",
           "ccu": 88,
           "total_reviews": 19844
+        },
+        {
+          "at": "2026-07-20T00:20:52.782483+00:00",
+          "ccu": 24,
+          "total_reviews": 19844
         }
       ],
-      "ccu": 88,
+      "ccu": 24,
       "total_reviews": 19844,
       "positive": 17633,
       "negative": 2211,
       "review_score_desc": "Very Positive",
       "name": "Witch It",
       "is_free": false,
-      "price_cents": 2400000,
-      "release_date": "22 Oct, 2020",
+      "price_cents": 1999,
+      "release_date": "Oct 22, 2020",
       "release_quarter": "2020-Q4",
       "genres": [
         "Action",

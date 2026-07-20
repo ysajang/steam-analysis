@@ -1,0 +1,341 @@
+{
+ "n_win": 16,
+ "n_lose": 88,
+ "win_price_list": [
+  6.99,
+  11.99,
+  12.49,
+  14.99,
+  14.99,
+  14.99,
+  19.79,
+  20.99,
+  20.99,
+  23.99,
+  24.99,
+  24.99,
+  29.99,
+  33.32,
+  49.99,
+  49.99
+ ],
+ "lose_price_median": 7.99,
+ "win_tags_pct": {
+  "Co-op": 68.8,
+  "Multiplayer": 56.2,
+  "Online Co-Op": 43.8,
+  "Action": 37.5,
+  "Adventure": 31.2,
+  "Shooter": 31.2,
+  "Survival": 25.0,
+  "Third Person": 25.0,
+  "PvP": 25.0,
+  "Singleplayer": 25.0,
+  "Rogue-like": 25.0,
+  "FPS": 25.0,
+  "First-Person": 25.0,
+  "Horror": 18.8,
+  "Rogue-lite": 18.8,
+  "Action Roguelike": 18.8,
+  "Early Access": 18.8,
+  "Building": 18.8,
+  "PvE": 18.8,
+  "Base-Building": 18.8,
+  "3D": 18.8,
+  "RPG": 18.8,
+  "Stealth": 12.5,
+  "Survival Horror": 12.5,
+  "Team-Based": 12.5
+ },
+ "lose_tags_pct": {
+  "Action": 59.1,
+  "Co-op": 43.2,
+  "Multiplayer": 38.6,
+  "2D": 33.0,
+  "Online Co-Op": 31.8,
+  "3D": 27.3,
+  "Casual": 26.1,
+  "Shooter": 22.7,
+  "Arcade": 22.7,
+  "Early Access": 20.5,
+  "PvP": 20.5,
+  "Adventure": 19.3,
+  "First-Person": 19.3,
+  "Local Co-Op": 17.0,
+  "Funny": 17.0,
+  "Horror": 17.0,
+  "Singleplayer": 15.9,
+  "PvE": 15.9,
+  "RPG": 14.8,
+  "Pixel Graphics": 13.6,
+  "Combat": 13.6,
+  "Exploration": 13.6,
+  "Action-Adventure": 12.5,
+  "Simulation": 12.5,
+  "Shoot 'Em Up": 12.5
+ },
+ "win_cats_pct": {
+  "Multi-player": 100.0,
+  "Family Sharing": 93.8,
+  "Co-op": 87.5,
+  "Online Co-op": 81.2,
+  "Steam Achievements": 75.0,
+  "Single-player": 75.0,
+  "Steam Cloud": 68.8,
+  "Full controller support": 62.5,
+  "DualShock Controller Support": 43.8,
+  "DualSense Controller Support": 43.8,
+  "Steam Trading Cards": 37.5,
+  "Online PvP": 37.5,
+  "PvP": 37.5,
+  "Camera Comfort": 31.2,
+  "Cross-Platform Multiplayer": 31.2,
+  "Color Alternatives": 25.0,
+  "Save Anytime": 25.0,
+  "Custom Volume Controls": 25.0,
+  "Adjustable Difficulty": 25.0,
+  "Stereo Sound": 25.0,
+  "Playable without Timed Input": 25.0,
+  "Adjustable Text Size": 18.8,
+  "Shared/Split Screen Co-op": 18.8,
+  "Shared/Split Screen": 18.8,
+  "Surround Sound": 18.8
+ },
+ "lose_cats_pct": {
+  "Family Sharing": 100.0,
+  "Multi-player": 92.0,
+  "Co-op": 86.4,
+  "Single-player": 85.2,
+  "Steam Achievements": 61.4,
+  "Online Co-op": 60.2,
+  "Steam Cloud": 38.6,
+  "Full controller support": 37.5,
+  "Shared/Split Screen": 36.4,
+  "Shared/Split Screen Co-op": 35.2,
+  "Remote Play Together": 34.1,
+  "PvP": 31.8,
+  "DualShock Controller Support": 28.4,
+  "DualSense Controller Support": 28.4,
+  "Online PvP": 26.1,
+  "Partial Controller Support": 21.6,
+  "Gamepad Recommended": 13.6,
+  "Steam Leaderboards": 11.4,
+  "Shared/Split Screen PvP": 10.2,
+  "Stats": 9.1,
+  "Steam Trading Cards": 8.0,
+  "Cross-Platform Multiplayer": 8.0,
+  "Remote Play on TV": 8.0,
+  "Custom Volume Controls": 6.8,
+  "LAN Co-op": 6.8
+ },
+ "winners": [
+  {
+   "name": "Palworld",
+   "price": 20.99,
+   "owners": 75000000,
+   "tags": [
+    "Open World",
+    "Survival",
+    "Creature Collector",
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Online Co-Op"
+   ]
+  },
+  {
+   "name": "Split Fiction",
+   "price": 49.99,
+   "owners": 3500000,
+   "tags": [
+    "Co-op",
+    "Split Screen",
+    "Female Protagonist",
+    "Action-Adventure",
+    "3D Platformer",
+    "Fantasy"
+   ]
+  },
+  {
+   "name": "The Outlast Trials",
+   "price": 11.99,
+   "owners": 3500000,
+   "tags": [
+    "Horror",
+    "Multiplayer",
+    "Co-op",
+    "Survival Horror",
+    "Psychological Horror",
+    "First-Person"
+   ]
+  },
+  {
+   "name": "Borderlands Game of the Year Enhanced",
+   "price": 29.99,
+   "owners": 1500000,
+   "tags": [
+    "FPS",
+    "Co-op",
+    "Shooter",
+    "First-Person",
+    "Loot",
+    "Online Co-Op"
+   ]
+  },
+  {
+   "name": "Diablo IV",
+   "price": 49.99,
+   "owners": 1500000,
+   "tags": [
+    "Action RPG",
+    "Hack and Slash",
+    "Loot",
+    "Isometric",
+    "RPG",
+    "Online Co-Op"
+   ]
+  },
+  {
+   "name": "Homeworld 3",
+   "price": 19.79,
+   "owners": 750000,
+   "tags": [
+    "Space",
+    "RTS",
+    "Strategy",
+    "Sci-fi",
+    "Story Rich",
+    "Singleplayer"
+   ]
+  },
+  {
+   "name": "Deadside",
+   "price": 24.99,
+   "owners": 750000,
+   "tags": [
+    "Survival",
+    "Open World Survival Craft",
+    "FPS",
+    "Post-apocalyptic",
+    "PvP",
+    "Open World"
+   ]
+  },
+  {
+   "name": "Bodycam",
+   "price": 33.32,
+   "owners": 750000,
+   "tags": [
+    "Early Access",
+    "FPS",
+    "Realistic",
+    "Shooter",
+    "Military",
+    "Co-op"
+   ]
+  },
+  {
+   "name": "The Texas Chain Saw Massacre",
+   "price": 14.99,
+   "owners": 350000,
+   "tags": [
+    "Horror",
+    "Multiplayer",
+    "Survival Horror",
+    "Gore",
+    "Team-Based",
+    "PvP"
+   ]
+  },
+  {
+   "name": "Ravenswatch",
+   "price": 12.49,
+   "owners": 350000,
+   "tags": [
+    "Rogue-like",
+    "Co-op",
+    "Action Roguelike",
+    "Action",
+    "Multiplayer",
+    "Online Co-Op"
+   ]
+  },
+  {
+   "name": "Pioneers of Pagonia",
+   "price": 20.99,
+   "owners": 350000,
+   "tags": [
+    "Early Access",
+    "Base-Building",
+    "PvE",
+    "City Builder",
+    "Colony Sim",
+    "Building"
+   ]
+  },
+  {
+   "name": "Fight Crab 2",
+   "price": 14.99,
+   "owners": 350000,
+   "tags": [
+    "Early Access",
+    "PvP",
+    "Comedy",
+    "Sports",
+    "Spectacle fighter",
+    "3D"
+   ]
+  },
+  {
+   "name": "Echo Point Nova",
+   "price": 24.99,
+   "owners": 350000,
+   "tags": [
+    "FPS",
+    "Shooter",
+    "Online Co-Op",
+    "Exploration",
+    "Action",
+    "Arena Shooter"
+   ]
+  },
+  {
+   "name": "RoadCraft",
+   "price": 23.99,
+   "owners": 350000,
+   "tags": [
+    "Simulation",
+    "Building",
+    "Driving",
+    "Physics",
+    "Adventure",
+    "Online Co-Op"
+   ]
+  },
+  {
+   "name": "Bounty of One",
+   "price": 6.99,
+   "owners": 150000,
+   "tags": [
+    "Top-Down Shooter",
+    "Arena Shooter",
+    "RPG",
+    "Score Attack",
+    "Colorful",
+    "Bullet Hell"
+   ]
+  },
+  {
+   "name": "Portal Dungeon",
+   "price": 14.99,
+   "owners": 150000,
+   "tags": [
+    "Action Roguelike",
+    "Rogue-lite",
+    "Multiplayer",
+    "Pixel Graphics",
+    "Side Scroller",
+    "Rogue-like"
+   ]
+  }
+ ]
+}

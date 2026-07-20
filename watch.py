@@ -111,13 +111,14 @@ def collect_one(appid, prev_entry):
         entry["is_free"] = sd.get("is_free", False)
         po = sd.get("price_overview") or {}
         entry["price_cents"] = po.get("final", 0)
+        entry["price_formatted"] = po.get("final_formatted", "")
         rel = (sd.get("release_date") or {}).get("date")
         entry["release_date"] = rel
         entry["release_quarter"] = to_quarter(rel)
         entry["genres"] = [g["description"] for g in sd.get("genres", [])]
     else:
         # 상세 실패 시 이전 값 유지
-        for k in ("name", "is_free", "price_cents", "release_date", "release_quarter", "genres"):
+        for k in ("name", "is_free", "price_cents", "price_formatted", "release_date", "release_quarter", "genres"):
             entry[k] = (prev_entry or {}).get(k)
         entry["name"] = entry["name"] or f"appid {appid}"
 

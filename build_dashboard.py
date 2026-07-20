@@ -444,7 +444,7 @@ function renderWatch(){
     return `<tr>
       <td class="name" title="${esc(e.name)}">${esc(e.name)}<br><span class="tag">${esc((e.genres||[]).join(', '))}</span></td>
       <td class="num">${e.release_quarter||'-'}</td>
-      <td class="num">${e.is_free?'무료':(e.price_cents?'$'+(e.price_cents/100).toFixed(2):'-')}</td>
+      <td class="num">${e.is_free?'무료':(e.price_formatted?esc(e.price_formatted):(e.price_cents?'$'+(e.price_cents/100).toFixed(2):'-'))}</td>
       <td class="num">${fmt(e.ccu||0)}</td>
       <td class="num">${fmt(tot)}</td>
       <td class="num ${rc}">${(rate*100).toFixed(1)}%</td>

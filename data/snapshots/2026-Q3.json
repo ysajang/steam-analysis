@@ -1,0 +1,1905 @@
+{
+  "schema": "steam-analysis.snapshot.v1",
+  "quarter": "2026-Q3",
+  "taken_at": "2026-07-17T17:46:28.450504+00:00",
+  "count": 1000,
+  "genre_owners": {
+    "Action": 4625500000,
+    "Free To Play": 1717000000,
+    "Adventure": 2671000000,
+    "Massively Multiplayer": 1127000000,
+    "Indie": 1851000000,
+    "RPG": 1725500000,
+    "Casual": 683500000,
+    "Simulation": 1061500000,
+    "Early Access": 261500000,
+    "Animation & Modeling": 45500000,
+    "Design & Illustration": 44000000,
+    "Photo Editing": 35000000,
+    "Utilities": 49000000,
+    "Strategy": 853000000,
+    "Sports": 263500000,
+    "Racing": 129000000,
+    "Video Production": 9000000,
+    "Software Training": 3500000,
+    "Audio Production": 3500000,
+    "Game Development": 1500000
+  },
+  "tag_owners": {
+    "FPS": 1016500000,
+    "Shooter": 553000000,
+    "Multiplayer": 1894000000,
+    "Free to Play": 1321000000,
+    "Battle Royale": 393500000,
+    "Survival": 698000000,
+    "Open World": 1027500000,
+    "Creature Collector": 75000000,
+    "Hero Shooter": 101000000,
+    "Massively Multiplayer": 160000000,
+    "MMORPG": 235500000,
+    "Mythology": 82000000,
+    "Action RPG": 333500000,
+    "Action": 1180000000,
+    "Zombies": 309500000,
+    "Co-op": 338500000,
+    "Simulation": 284500000,
+    "Vehicular Combat": 46000000,
+    "Hunting": 57500000,
+    "Online Co-Op": 242500000,
+    "PvE": 42500000,
+    "Third-Person Shooter": 104500000,
+    "Looter Shooter": 63000000,
+    "Souls-like": 100500000,
+    "Dark Fantasy": 91500000,
+    "Open World Survival Craft": 200000000,
+    "Sandbox": 144000000,
+    "Hack and Slash": 150500000,
+    "RPG": 362500000,
+    "Mature": 38500000,
+    "Utilities": 45500000,
+    "Anime": 124500000,
+    "Character Customization": 110000000,
+    "Choices Matter": 81500000,
+    "Fighting": 99000000,
+    "Moddable": 36500000,
+    "PvP": 66500000,
+    "Crafting": 44500000,
+    "Naval Combat": 35000000,
+    "Farming Sim": 43500000,
+    "Pixel Graphics": 104000000,
+    "Mechs": 58500000,
+    "Automobile Sim": 88500000,
+    "Loot": 79000000,
+    "Singleplayer": 170500000,
+    "Cyberpunk": 53500000,
+    "Nudity": 51000000,
+    "Horror": 263000000,
+    "Survival Horror": 107000000,
+    "Magic": 42000000,
+    "Fantasy": 104000000,
+    "VR": 55000000,
+    "Story Rich": 201000000,
+    "Social Deduction": 35000000,
+    "Party Game": 35000000,
+    "Driving": 46000000,
+    "Transportation": 15000000,
+    "Martial Arts": 25000000,
+    "Classic": 54500000,
+    "1990's": 16500000,
+    "World War II": 79000000,
+    "Football (Soccer)": 66000000,
+    "Competitive": 15000000,
+    "First-Person": 79000000,
+    "Western": 22000000,
+    "MOBA": 26500000,
+    "Tanks": 15000000,
+    "Crime": 37000000,
+    "Puzzle": 65500000,
+    "Puzzle-Platformer": 32000000,
+    "Life Sim": 18500000,
+    "Funny": 57000000,
+    "Controller": 30000000,
+    "Extraction Shooter": 26000000,
+    "Difficult": 57500000,
+    "Top-Down Shooter": 23000000,
+    "Twin Stick Shooter": 15000000,
+    "Top-Down": 15000000,
+    "Sci-fi": 62500000,
+    "Military": 42000000,
+    "City Builder": 52000000,
+    "Building": 59000000,
+    "Medieval": 74000000,
+    "Strategy": 276000000,
+    "Turn-Based Strategy": 85500000,
+    "Turn-Based": 26500000,
+    "Post-apocalyptic": 67000000,
+    "Adventure": 198500000,
+    "Cinematic": 15000000,
+    "Base-Building": 73000000,
+    "Automation": 26000000,
+    "Basketball": 10500000,
+    "Sports": 69500000,
+    "Action Roguelike": 57000000,
+    "2D": 20000000,
+    "Grand Strategy": 32000000,
+    "Music": 23000000,
+    "Level Editor": 9000000,
+    "Female Protagonist": 36500000,
+    "Space": 43000000,
+    "Metroidvania": 32500000,
+    "Platformer": 51000000,
+    "Robots": 16500000,
+    "Physics": 35500000,
+    "Parkour": 18000000,
+    "Point & Click": 17500000,
+    "Rogue-like": 47000000,
+    "Indie": 84000000,
+    "Boomer Shooter": 10500000,
+    "Fast-Paced": 12500000,
+    "Auto Battler": 7500000,
+    "Split Screen": 14500000,
+    "Warhammer 40K": 25500000,
+    "Racing": 60000000,
+    "Isometric": 12000000,
+    "Turn-Based Combat": 14500000,
+    "Bullet Hell": 12500000,
+    "2D Fighter": 23000000,
+    "Pirates": 9000000,
+    "Assassin": 37500000,
+    "Historical": 39500000,
+    "Clicker": 18500000,
+    "Idler": 21500000,
+    "Casual": 75000000,
+    "Gore": 47500000,
+    "Psychological Horror": 50000000,
+    "Great Soundtrack": 79500000,
+    "Animation & Modeling": 10500000,
+    "Software": 11000000,
+    "Design & Illustration": 12500000,
+    "Rogue-lite": 16000000,
+    "Resource Management": 11000000,
+    "RTS": 59000000,
+    "Roguelike Deckbuilder": 11000000,
+    "Card Game": 36500000,
+    "Card Battler": 16000000,
+    "Cartoon": 7500000,
+    "Sexual Content": 22000000,
+    "War": 17500000,
+    "Board Game": 16000000,
+    "Visual Novel": 11000000,
+    "Tactical RPG": 7500000,
+    "Management": 60000000,
+    "Fishing": 18000000,
+    "Dwarf": 11000000,
+    "Colony Sim": 28000000,
+    "Stealth": 75000000,
+    "Atmospheric": 74000000,
+    "Violent": 14500000,
+    "Dark Humor": 11000000,
+    "Swordplay": 16000000,
+    "Tactical": 36000000,
+    "Realistic": 35000000,
+    "Cats": 7500000,
+    "Comedy": 33500000,
+    "Destruction": 17000000,
+    "Flight": 19500000,
+    "Third Person": 23000000,
+    "Gun Customization": 11000000,
+    "Tower Defense": 30000000,
+    "Dungeon Crawler": 7000000,
+    "Tabletop": 7000000,
+    "Action-Adventure": 12000000,
+    "2.5D": 3500000,
+    "Rhythm": 15000000,
+    "Multiple Endings": 5000000,
+    "Superhero": 17000000,
+    "America": 3500000,
+    "Vampire": 3500000,
+    "Minimalist": 3500000,
+    "3D": 7000000,
+    "Match 3": 3500000,
+    "Arena Shooter": 12000000,
+    "Wargame": 3500000,
+    "Games Workshop": 3500000,
+    "Beautiful": 10500000,
+    "Space Sim": 8500000,
+    "Dragons": 10000000,
+    "Hacking": 8500000,
+    "Illuminati": 3500000,
+    "Steampunk": 3500000,
+    "Team-Based": 7000000,
+    "Cute": 13500000,
+    "Demons": 3500000,
+    "Hand-drawn": 3500000,
+    "Villain Protagonist": 5000000,
+    "Early Access": 18500000,
+    "Remake": 5000000,
+    "JRPG": 22000000,
+    "Diplomacy": 3500000,
+    "Local Co-Op": 5000000,
+    "Political": 3500000,
+    "Dinosaurs": 7000000,
+    "Combat Racing": 3500000,
+    "Audio Production": 3500000,
+    "Gambling": 7000000,
+    "Heist": 7000000,
+    "Trading Card Game": 8500000,
+    "Combat": 5000000,
+    "Narration": 3500000,
+    "Sniper": 15500000,
+    "Economy": 8500000,
+    "Local Multiplayer": 15000000,
+    "Mini Golf": 3500000,
+    "3D Fighter": 5000000,
+    "Underwater": 5000000,
+    "God Game": 3500000,
+    "Psychological": 3500000,
+    "Hentai": 5000000,
+    "Alternate History": 5000000,
+    "LGBTQ+": 3500000,
+    "Inventory Management": 3500000,
+    "Co-op Campaign": 3500000,
+    "Jet": 3500000,
+    "Precision Platformer": 7000000,
+    "Detective": 6500000,
+    "Dark": 3500000,
+    "Walking Simulator": 8500000,
+    "Bullet Time": 5000000,
+    "Party-Based RPG": 5000000,
+    "Exploration": 8000000,
+    "Turn-Based Tactics": 10000000,
+    "Deckbuilding": 5000000,
+    "Benchmark": 3500000,
+    "Programming": 3500000,
+    "Quick-Time Events": 3500000,
+    "Relaxing": 5000000,
+    "4X": 6500000,
+    "Party": 3000000,
+    "Outbreak Sim": 1500000,
+    "Dungeons & Dragons": 4500000,
+    "Education": 1500000,
+    "Immersive Sim": 3000000,
+    "Beat 'em up": 4500000,
+    "Trains": 1500000,
+    "Escape Room": 1500000,
+    "Retro": 1500000,
+    "Surreal": 4500000,
+    "Nostalgia": 1500000,
+    "Supernatural": 3000000,
+    "Football (American)": 1500000,
+    "Voxel": 1500000,
+    "Political Sim": 3000000,
+    "Dystopian ": 3000000,
+    "Arcade": 4500000,
+    "Choose Your Own Adventure": 1500000,
+    "Ninja": 3000000,
+    "Video Production": 1500000,
+    "Mystery": 6000000,
+    "Dating Sim": 1500000,
+    "Aliens": 1500000,
+    "2D Platformer": 6000000,
+    "Medical Sim": 1500000,
+    "Offroad": 1500000,
+    "Blood": 1500000,
+    "Family Friendly": 3000000,
+    "Lovecraftian": 3000000,
+    "Dog": 3000000,
+    "Capitalism": 1500000,
+    "Cooking": 1500000,
+    "Philosophical": 1500000,
+    "Time Manipulation": 1500000,
+    "Rome": 1500000,
+    "Musou": 1500000,
+    "3D Platformer": 1500000,
+    "Agriculture": 3000000,
+    "Old School": 1500000,
+    "Psychedelic": 1500000,
+    "Noir": 1500000,
+    "LEGO": 4500000,
+    "1980s": 1500000,
+    "4 Player Local": 1500000,
+    "Emotional": 1500000
+  },
+  "top_games": [
+    {
+      "appid": 730,
+      "name": "Counter-Strike: Global Offensive",
+      "owners_mid": 150000000,
+      "ccu": 1013936,
+      "positive": 7642084,
+      "negative": 1173003
+    },
+    {
+      "appid": 1172470,
+      "name": "Apex Legends",
+      "owners_mid": 150000000,
+      "ccu": 124262,
+      "positive": 668053,
+      "negative": 326926
+    },
+    {
+      "appid": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "owners_mid": 150000000,
+      "ccu": 314682,
+      "positive": 1520457,
+      "negative": 1037487
+    },
+    {
+      "appid": 1623730,
+      "name": "Palworld",
+      "owners_mid": 75000000,
+      "ccu": 18028,
+      "positive": 358266,
+      "negative": 22443
+    },
+    {
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "owners_mid": 75000000,
+      "ccu": 43819,
+      "positive": 1044264,
+      "negative": 117208
+    },
+    {
+      "appid": 1938090,
+      "name": "Call of Duty: Modern Warfare II",
+      "owners_mid": 75000000,
+      "ccu": 67419,
+      "positive": 419594,
+      "negative": 294520
+    },
+    {
+      "appid": 1063730,
+      "name": "New World: Aeternum",
+      "owners_mid": 75000000,
+      "ccu": 5583,
+      "positive": 196798,
+      "negative": 90080
+    },
+    {
+      "appid": 2358720,
+      "name": "Black Myth: Wukong",
+      "owners_mid": 75000000,
+      "ccu": 15004,
+      "positive": 1111720,
+      "negative": 38378
+    },
+    {
+      "appid": 271590,
+      "name": "Grand Theft Auto V Legacy",
+      "owners_mid": 75000000,
+      "ccu": 67851,
+      "positive": 1739980,
+      "negative": 250576
+    },
+    {
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "owners_mid": 75000000,
+      "ccu": 25122,
+      "positive": 940221,
+      "negative": 23762
+    },
+    {
+      "appid": 304930,
+      "name": "Unturned",
+      "owners_mid": 75000000,
+      "ccu": 10408,
+      "positive": 506516,
+      "negative": 48852
+    },
+    {
+      "appid": 1599340,
+      "name": "Lost Ark",
+      "owners_mid": 75000000,
+      "ccu": 17355,
+      "positive": 143481,
+      "negative": 58540
+    },
+    {
+      "appid": 236390,
+      "name": "War Thunder",
+      "owners_mid": 35000000,
+      "ccu": 50478,
+      "positive": 484469,
+      "negative": 272617
+    },
+    {
+      "appid": 2246340,
+      "name": "Monster Hunter Wilds",
+      "owners_mid": 35000000,
+      "ccu": 12494,
+      "positive": 127273,
+      "negative": 91142
+    },
+    {
+      "appid": 553850,
+      "name": "HELLDIVERS 2",
+      "owners_mid": 35000000,
+      "ccu": 53399,
+      "positive": 775883,
+      "negative": 241752
+    },
+    {
+      "appid": 230410,
+      "name": "Warframe",
+      "owners_mid": 35000000,
+      "ccu": 36195,
+      "positive": 545393,
+      "negative": 81110
+    },
+    {
+      "appid": 1245620,
+      "name": "ELDEN RING",
+      "owners_mid": 35000000,
+      "ccu": 29529,
+      "positive": 981540,
+      "negative": 75137
+    },
+    {
+      "appid": 105600,
+      "name": "Terraria",
+      "owners_mid": 35000000,
+      "ccu": 24580,
+      "positive": 1373979,
+      "negative": 35494
+    },
+    {
+      "appid": 2694490,
+      "name": "Path of Exile 2",
+      "owners_mid": 35000000,
+      "ccu": 16727,
+      "positive": 118511,
+      "negative": 50510
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "owners_mid": 35000000,
+      "ccu": 91184,
+      "positive": 876898,
+      "negative": 17560
+    },
+    {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "owners_mid": 35000000,
+      "ccu": 54771,
+      "positive": 736688,
+      "negative": 23974
+    },
+    {
+      "appid": 291550,
+      "name": "Brawlhalla",
+      "owners_mid": 35000000,
+      "ccu": 14169,
+      "positive": 314809,
+      "negative": 71647
+    },
+    {
+      "appid": 4000,
+      "name": "Garry's Mod",
+      "owners_mid": 35000000,
+      "ccu": 18400,
+      "positive": 1122546,
+      "negative": 37161
+    },
+    {
+      "appid": 1085660,
+      "name": "Destiny 2",
+      "owners_mid": 35000000,
+      "ccu": 24619,
+      "positive": 497891,
+      "negative": 127725
+    },
+    {
+      "appid": 359550,
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "owners_mid": 35000000,
+      "ccu": 51847,
+      "positive": 1172854,
+      "negative": 225730
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "owners_mid": 35000000,
+      "ccu": 143870,
+      "positive": 1071135,
+      "negative": 156649
+    },
+    {
+      "appid": 552990,
+      "name": "World of Warships",
+      "owners_mid": 35000000,
+      "ccu": 8518,
+      "positive": 112887,
+      "negative": 33665
+    },
+    {
+      "appid": 346110,
+      "name": "ARK: Survival Evolved",
+      "owners_mid": 35000000,
+      "ccu": 22170,
+      "positive": 612177,
+      "negative": 117993
+    },
+    {
+      "appid": 413150,
+      "name": "Stardew Valley",
+      "owners_mid": 35000000,
+      "ccu": 50662,
+      "positive": 872384,
+      "negative": 13811
+    },
+    {
+      "appid": 242760,
+      "name": "The Forest",
+      "owners_mid": 35000000,
+      "ccu": 2892,
+      "positive": 599805,
+      "negative": 27986
+    },
+    {
+      "appid": 1491000,
+      "name": "War Robots: Frontiers",
+      "owners_mid": 35000000,
+      "ccu": 256,
+      "positive": 1977,
+      "negative": 1105
+    },
+    {
+      "appid": 238960,
+      "name": "Path of Exile",
+      "owners_mid": 35000000,
+      "ccu": 4694,
+      "positive": 209822,
+      "negative": 25269
+    },
+    {
+      "appid": 218620,
+      "name": "PAYDAY 2",
+      "owners_mid": 35000000,
+      "ccu": 27254,
+      "positive": 594327,
+      "negative": 68755
+    },
+    {
+      "appid": 291480,
+      "name": "Warface: Clutch",
+      "owners_mid": 35000000,
+      "ccu": 270,
+      "positive": 54554,
+      "negative": 27643
+    },
+    {
+      "appid": 901583,
+      "name": "Grand Theft Auto IV: Complete Edition",
+      "owners_mid": 35000000,
+      "ccu": 0,
+      "positive": 144570,
+      "negative": 30702
+    },
+    {
+      "appid": 899770,
+      "name": "Last Epoch",
+      "owners_mid": 35000000,
+      "ccu": 5831,
+      "positive": 88027,
+      "negative": 22596
+    },
+    {
+      "appid": 340,
+      "name": "Half-Life 2: Lost Coast",
+      "owners_mid": 35000000,
+      "ccu": 2,
+      "positive": 12215,
+      "negative": 1471
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "owners_mid": 35000000,
+      "ccu": 22265,
+      "positive": 713071,
+      "negative": 131850
+    },
+    {
+      "appid": 381210,
+      "name": "Dead by Daylight",
+      "owners_mid": 35000000,
+      "ccu": 44886,
+      "positive": 630223,
+      "negative": 166993
+    },
+    {
+      "appid": 990080,
+      "name": "Hogwarts Legacy",
+      "owners_mid": 35000000,
+      "ccu": 5716,
+      "positive": 289966,
+      "negative": 31429
+    },
+    {
+      "appid": 438100,
+      "name": "VRChat",
+      "owners_mid": 35000000,
+      "ccu": 34699,
+      "positive": 181623,
+      "negative": 58732
+    },
+    {
+      "appid": 292030,
+      "name": "The Witcher 3: Wild Hunt",
+      "owners_mid": 35000000,
+      "ccu": 15893,
+      "positive": 802993,
+      "negative": 32356
+    },
+    {
+      "appid": 945360,
+      "name": "Among Us",
+      "owners_mid": 35000000,
+      "ccu": 3832,
+      "positive": 643681,
+      "negative": 57104
+    },
+    {
+      "appid": 1097150,
+      "name": "Fall Guys: Ultimate Knockout",
+      "owners_mid": 35000000,
+      "ccu": 664,
+      "positive": 385154,
+      "negative": 88589
+    },
+    {
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "owners_mid": 15000000,
+      "ccu": 8551,
+      "positive": 272900,
+      "negative": 22318
+    },
+    {
+      "appid": 227300,
+      "name": "Euro Truck Simulator 2",
+      "owners_mid": 15000000,
+      "ccu": 17281,
+      "positive": 844480,
+      "negative": 22924
+    },
+    {
+      "appid": 892970,
+      "name": "Valheim",
+      "owners_mid": 15000000,
+      "ccu": 14439,
+      "positive": 471451,
+      "negative": 28377
+    },
+    {
+      "appid": 739630,
+      "name": "Phasmophobia",
+      "owners_mid": 15000000,
+      "ccu": 9978,
+      "positive": 736611,
+      "negative": 32168
+    },
+    {
+      "appid": 444090,
+      "name": "Paladins",
+      "owners_mid": 15000000,
+      "ccu": 1028,
+      "positive": 294373,
+      "negative": 52031
+    },
+    {
+      "appid": 1203220,
+      "name": "NARAKA: BLADEPOINT",
+      "owners_mid": 15000000,
+      "ccu": 66954,
+      "positive": 225960,
+      "negative": 98967
+    },
+    {
+      "appid": 320,
+      "name": "Half-Life 2: Deathmatch",
+      "owners_mid": 15000000,
+      "ccu": 159,
+      "positive": 12962,
+      "negative": 1334
+    },
+    {
+      "appid": 70,
+      "name": "Half-Life",
+      "owners_mid": 15000000,
+      "ccu": 634,
+      "positive": 143086,
+      "negative": 5135
+    },
+    {
+      "appid": 582010,
+      "name": "Monster Hunter: World",
+      "owners_mid": 15000000,
+      "ccu": 11923,
+      "positive": 434239,
+      "negative": 59151
+    },
+    {
+      "appid": 227940,
+      "name": "Heroes & Generals",
+      "owners_mid": 15000000,
+      "ccu": 0,
+      "positive": 96499,
+      "negative": 46264
+    },
+    {
+      "appid": 252950,
+      "name": "Rocket League",
+      "owners_mid": 15000000,
+      "ccu": 21106,
+      "positive": 509445,
+      "negative": 73775
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "owners_mid": 15000000,
+      "ccu": 22864,
+      "positive": 355171,
+      "negative": 21892
+    },
+    {
+      "appid": 1966720,
+      "name": "Lethal Company",
+      "owners_mid": 15000000,
+      "ccu": 6199,
+      "positive": 473422,
+      "negative": 13738
+    },
+    {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "owners_mid": 15000000,
+      "ccu": 29885,
+      "positive": 676667,
+      "negative": 56875
+    },
+    {
+      "appid": 1517290,
+      "name": "Battlefield 2042",
+      "owners_mid": 15000000,
+      "ccu": 2774,
+      "positive": 139186,
+      "negative": 158588
+    },
+    {
+      "appid": 1240440,
+      "name": "Halo Infinite",
+      "owners_mid": 15000000,
+      "ccu": 2275,
+      "positive": 123333,
+      "negative": 53708
+    },
+    {
+      "appid": 648800,
+      "name": "Raft",
+      "owners_mid": 15000000,
+      "ccu": 4701,
+      "positive": 323198,
+      "negative": 23161
+    },
+    {
+      "appid": 386360,
+      "name": "SMITE",
+      "owners_mid": 15000000,
+      "ccu": 1853,
+      "positive": 94368,
+      "negative": 25428
+    },
+    {
+      "appid": 444200,
+      "name": "World of Tanks Blitz",
+      "owners_mid": 15000000,
+      "ccu": 5707,
+      "positive": 116407,
+      "negative": 31754
+    },
+    {
+      "appid": 10,
+      "name": "Counter-Strike",
+      "owners_mid": 15000000,
+      "ccu": 7323,
+      "positive": 243818,
+      "negative": 6427
+    },
+    {
+      "appid": 240,
+      "name": "Counter-Strike: Source",
+      "owners_mid": 15000000,
+      "ccu": 6187,
+      "positive": 175426,
+      "negative": 6808
+    },
+    {
+      "appid": 3164500,
+      "name": "Schedule I",
+      "owners_mid": 15000000,
+      "ccu": 22757,
+      "positive": 200803,
+      "negative": 3238
+    },
+    {
+      "appid": 755790,
+      "name": "Ring of Elysium",
+      "owners_mid": 15000000,
+      "ccu": 0,
+      "positive": 74345,
+      "negative": 25492
+    },
+    {
+      "appid": 400,
+      "name": "Portal",
+      "owners_mid": 15000000,
+      "ccu": 638,
+      "positive": 175024,
+      "negative": 2717
+    },
+    {
+      "appid": 1222670,
+      "name": "The Sims 4",
+      "owners_mid": 15000000,
+      "ccu": 25276,
+      "positive": 149064,
+      "negative": 21663
+    },
+    {
+      "appid": 550650,
+      "name": "Black Squad",
+      "owners_mid": 15000000,
+      "ccu": 212,
+      "positive": 62042,
+      "negative": 19672
+    },
+    {
+      "appid": 322330,
+      "name": "Don't Starve Together",
+      "owners_mid": 15000000,
+      "ccu": 30542,
+      "positive": 475393,
+      "negative": 23668
+    },
+    {
+      "appid": 239140,
+      "name": "Dying Light",
+      "owners_mid": 15000000,
+      "ccu": 4953,
+      "positive": 435687,
+      "negative": 21945
+    },
+    {
+      "appid": 477160,
+      "name": "Human Fall Flat",
+      "owners_mid": 15000000,
+      "ccu": 950,
+      "positive": 202253,
+      "negative": 11387
+    },
+    {
+      "appid": 251570,
+      "name": "7 Days to Die",
+      "owners_mid": 15000000,
+      "ccu": 17045,
+      "positive": 327889,
+      "negative": 42157
+    },
+    {
+      "appid": 100,
+      "name": "Counter-Strike: Condition Zero",
+      "owners_mid": 15000000,
+      "ccu": 83,
+      "positive": 13442,
+      "negative": 1535
+    },
+    {
+      "appid": 1665460,
+      "name": "eFootball",
+      "owners_mid": 15000000,
+      "ccu": 13404,
+      "positive": 44067,
+      "negative": 48266
+    },
+    {
+      "appid": 417910,
+      "name": "Street Warriors Online",
+      "owners_mid": 15000000,
+      "ccu": 1,
+      "positive": 941,
+      "negative": 693
+    },
+    {
+      "appid": 433850,
+      "name": "Z1 Battle Royale",
+      "owners_mid": 15000000,
+      "ccu": 1010,
+      "positive": 113729,
+      "negative": 90284
+    },
+    {
+      "appid": 594650,
+      "name": "Hunt: Showdown 1896",
+      "owners_mid": 15000000,
+      "ccu": 6300,
+      "positive": 181110,
+      "negative": 67110
+    },
+    {
+      "appid": 814380,
+      "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "owners_mid": 15000000,
+      "ccu": 6767,
+      "positive": 307041,
+      "negative": 15193
+    },
+    {
+      "appid": 1116170,
+      "name": "CyberCorp",
+      "owners_mid": 15000000,
+      "ccu": 3,
+      "positive": 266,
+      "negative": 56
+    },
+    {
+      "appid": 220,
+      "name": "Half-Life 2",
+      "owners_mid": 15000000,
+      "ccu": 1555,
+      "positive": 239721,
+      "negative": 5906
+    },
+    {
+      "appid": 107410,
+      "name": "Arma 3",
+      "owners_mid": 15000000,
+      "ccu": 7181,
+      "positive": 256128,
+      "negative": 27136
+    },
+    {
+      "appid": 1326470,
+      "name": "Sons Of The Forest",
+      "owners_mid": 15000000,
+      "ccu": 4450,
+      "positive": 222495,
+      "negative": 31051
+    },
+    {
+      "appid": 219990,
+      "name": "Grim Dawn",
+      "owners_mid": 15000000,
+      "ccu": 2376,
+      "positive": 93489,
+      "negative": 6241
+    },
+    {
+      "appid": 255710,
+      "name": "Cities: Skylines",
+      "owners_mid": 15000000,
+      "ccu": 8842,
+      "positive": 256362,
+      "negative": 19408
+    },
+    {
+      "appid": 261550,
+      "name": "Mount & Blade II: Bannerlord",
+      "owners_mid": 15000000,
+      "ccu": 14477,
+      "positive": 232360,
+      "negative": 32031
+    },
+    {
+      "appid": 8930,
+      "name": "Sid Meier's Civilization V",
+      "owners_mid": 15000000,
+      "ccu": 12206,
+      "positive": 195724,
+      "negative": 8541
+    },
+    {
+      "appid": 304050,
+      "name": "Trove",
+      "owners_mid": 15000000,
+      "ccu": 758,
+      "positive": 74103,
+      "negative": 18267
+    },
+    {
+      "appid": 289070,
+      "name": "Sid Meier’s Civilization VI",
+      "owners_mid": 15000000,
+      "ccu": 25420,
+      "positive": 304053,
+      "negative": 45867
+    },
+    {
+      "appid": 377160,
+      "name": "Fallout 4",
+      "owners_mid": 15000000,
+      "ccu": 11179,
+      "positive": 326054,
+      "negative": 66233
+    },
+    {
+      "appid": 532210,
+      "name": "Life is Strange 2",
+      "owners_mid": 15000000,
+      "ccu": 153,
+      "positive": 31616,
+      "negative": 5018
+    },
+    {
+      "appid": 2186680,
+      "name": "Warhammer 40,000: Rogue Trader",
+      "owners_mid": 15000000,
+      "ccu": 3582,
+      "positive": 26360,
+      "negative": 4445
+    },
+    {
+      "appid": 1238810,
+      "name": "Battlefield V",
+      "owners_mid": 15000000,
+      "ccu": 6327,
+      "positive": 177352,
+      "negative": 72936
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "owners_mid": 15000000,
+      "ccu": 32349,
+      "positive": 179154,
+      "negative": 6488
+    },
+    {
+      "appid": 221100,
+      "name": "DayZ",
+      "owners_mid": 15000000,
+      "ccu": 37066,
+      "positive": 330349,
+      "negative": 99903
+    },
+    {
+      "appid": 526870,
+      "name": "Satisfactory",
+      "owners_mid": 15000000,
+      "ccu": 12596,
+      "positive": 225479,
+      "negative": 6585
+    },
+    {
+      "appid": 1089350,
+      "name": "NBA 2K20",
+      "owners_mid": 7500000,
+      "ccu": 221,
+      "positive": 30260,
+      "negative": 30413
+    },
+    {
+      "appid": 632360,
+      "name": "Risk of Rain 2",
+      "owners_mid": 7500000,
+      "ccu": 7902,
+      "positive": 293127,
+      "negative": 20450
+    },
+    {
+      "appid": 1811260,
+      "name": "EA SPORTS FIFA 23",
+      "owners_mid": 7500000,
+      "ccu": 1280,
+      "positive": 86192,
+      "negative": 65227
+    },
+    {
+      "appid": 204360,
+      "name": "Castle Crashers",
+      "owners_mid": 7500000,
+      "ccu": 443,
+      "positive": 120733,
+      "negative": 4865
+    },
+    {
+      "appid": 218230,
+      "name": "PlanetSide 2",
+      "owners_mid": 7500000,
+      "ccu": 496,
+      "positive": 59598,
+      "negative": 14096
+    },
+    {
+      "appid": 72850,
+      "name": "The Elder Scrolls V: Skyrim",
+      "owners_mid": 7500000,
+      "ccu": 1463,
+      "positive": 300915,
+      "negative": 16364
+    },
+    {
+      "appid": 394360,
+      "name": "Hearts of Iron IV",
+      "owners_mid": 7500000,
+      "ccu": 32112,
+      "positive": 305168,
+      "negative": 36982
+    },
+    {
+      "appid": 489830,
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "owners_mid": 7500000,
+      "ccu": 25085,
+      "positive": 310162,
+      "negative": 26896
+    },
+    {
+      "appid": 322170,
+      "name": "Geometry Dash",
+      "owners_mid": 7500000,
+      "ccu": 27850,
+      "positive": 401026,
+      "negative": 28895
+    },
+    {
+      "appid": 1446780,
+      "name": "MONSTER HUNTER RISE",
+      "owners_mid": 7500000,
+      "ccu": 3658,
+      "positive": 92564,
+      "negative": 20108
+    },
+    {
+      "appid": 224260,
+      "name": "No More Room in Hell",
+      "owners_mid": 7500000,
+      "ccu": 473,
+      "positive": 66753,
+      "negative": 7500
+    },
+    {
+      "appid": 203160,
+      "name": "Tomb Raider Game of the Year",
+      "owners_mid": 7500000,
+      "ccu": 556,
+      "positive": 238239,
+      "negative": 9691
+    },
+    {
+      "appid": 275850,
+      "name": "No Man's Sky",
+      "owners_mid": 7500000,
+      "ccu": 12291,
+      "positive": 293332,
+      "negative": 59526
+    },
+    {
+      "appid": 367520,
+      "name": "Hollow Knight",
+      "owners_mid": 7500000,
+      "ccu": 4912,
+      "positive": 403641,
+      "negative": 12305
+    },
+    {
+      "appid": 301520,
+      "name": "Robocraft",
+      "owners_mid": 7500000,
+      "ccu": 3,
+      "positive": 86240,
+      "negative": 31815
+    },
+    {
+      "appid": 767560,
+      "name": "War Robots",
+      "owners_mid": 7500000,
+      "ccu": 1280,
+      "positive": 15951,
+      "negative": 10624
+    },
+    {
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "owners_mid": 7500000,
+      "ccu": 3748,
+      "positive": 177539,
+      "negative": 4169
+    },
+    {
+      "appid": 466240,
+      "name": "Deceit",
+      "owners_mid": 7500000,
+      "ccu": 155,
+      "positive": 73606,
+      "negative": 19421
+    },
+    {
+      "appid": 284160,
+      "name": "BeamNG.drive",
+      "owners_mid": 7500000,
+      "ccu": 15863,
+      "positive": 313873,
+      "negative": 8405
+    },
+    {
+      "appid": 278360,
+      "name": "A Story About My Uncle",
+      "owners_mid": 7500000,
+      "ccu": 8,
+      "positive": 26479,
+      "negative": 2437
+    },
+    {
+      "appid": 264710,
+      "name": "Subnautica",
+      "owners_mid": 7500000,
+      "ccu": 2719,
+      "positive": 304449,
+      "negative": 9258
+    },
+    {
+      "appid": 80,
+      "name": "Counter-Strike: Condition Zero",
+      "owners_mid": 7500000,
+      "ccu": 276,
+      "positive": 24271,
+      "negative": 2287
+    },
+    {
+      "appid": 370910,
+      "name": "Kathy Rain",
+      "owners_mid": 7500000,
+      "ccu": 10,
+      "positive": 3478,
+      "negative": 300
+    },
+    {
+      "appid": 40,
+      "name": "Deathmatch Classic",
+      "owners_mid": 7500000,
+      "ccu": 7,
+      "positive": 2618,
+      "negative": 545
+    },
+    {
+      "appid": 275390,
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "owners_mid": 7500000,
+      "ccu": 5,
+      "positive": 6234,
+      "negative": 499
+    },
+    {
+      "appid": 2881650,
+      "name": "Content Warning",
+      "owners_mid": 7500000,
+      "ccu": 722,
+      "positive": 137483,
+      "negative": 7608
+    },
+    {
+      "appid": 311210,
+      "name": "Call of Duty: Black Ops III",
+      "owners_mid": 7500000,
+      "ccu": 5414,
+      "positive": 181306,
+      "negative": 33720
+    },
+    {
+      "appid": 333930,
+      "name": "Dirty Bomb",
+      "owners_mid": 7500000,
+      "ccu": 40,
+      "positive": 46464,
+      "negative": 10703
+    },
+    {
+      "appid": 1172620,
+      "name": "Sea of Thieves: 2026 Edition",
+      "owners_mid": 7500000,
+      "ccu": 5437,
+      "positive": 317074,
+      "negative": 38164
+    },
+    {
+      "appid": 22380,
+      "name": "Fallout: New Vegas",
+      "owners_mid": 7500000,
+      "ccu": 3892,
+      "positive": 218763,
+      "negative": 8937
+    },
+    {
+      "appid": 250900,
+      "name": "The Binding of Isaac: Rebirth",
+      "owners_mid": 7500000,
+      "ccu": 14904,
+      "positive": 334165,
+      "negative": 9255
+    },
+    {
+      "appid": 700330,
+      "name": "SCP: Secret Laboratory",
+      "owners_mid": 7500000,
+      "ccu": 4696,
+      "positive": 195923,
+      "negative": 18386
+    },
+    {
+      "appid": 10180,
+      "name": "Call of Duty: Modern Warfare 2 (2009)",
+      "owners_mid": 7500000,
+      "ccu": 399,
+      "positive": 54145,
+      "negative": 3973
+    },
+    {
+      "appid": 582660,
+      "name": "Black Desert",
+      "owners_mid": 7500000,
+      "ccu": 14345,
+      "positive": 64416,
+      "negative": 22503
+    },
+    {
+      "appid": 1229490,
+      "name": "ULTRAKILL",
+      "owners_mid": 7500000,
+      "ccu": 3122,
+      "positive": 165867,
+      "negative": 3884
+    },
+    {
+      "appid": 1046930,
+      "name": "Dota Underlords",
+      "owners_mid": 7500000,
+      "ccu": 1008,
+      "positive": 74753,
+      "negative": 16141
+    },
+    {
+      "appid": 1426210,
+      "name": "It Takes Two",
+      "owners_mid": 7500000,
+      "ccu": 5018,
+      "positive": 208042,
+      "negative": 10341
+    },
+    {
+      "appid": 2195250,
+      "name": "EA SPORTS FC 24",
+      "owners_mid": 7500000,
+      "ccu": 5110,
+      "positive": 63281,
+      "negative": 46293
+    },
+    {
+      "appid": 2183900,
+      "name": "Warhammer 40,000: Space Marine 2",
+      "owners_mid": 7500000,
+      "ccu": 6851,
+      "positive": 134739,
+      "negative": 27846
+    },
+    {
+      "appid": 883710,
+      "name": "Resident Evil 2",
+      "owners_mid": 7500000,
+      "ccu": 1123,
+      "positive": 167647,
+      "negative": 5210
+    },
+    {
+      "appid": 219640,
+      "name": "Chivalry: Medieval Warfare",
+      "owners_mid": 7500000,
+      "ccu": 32,
+      "positive": 54016,
+      "negative": 11428
+    },
+    {
+      "appid": 306130,
+      "name": "The Elder Scrolls Online",
+      "owners_mid": 7500000,
+      "ccu": 15987,
+      "positive": 125497,
+      "negative": 28616
+    },
+    {
+      "appid": 244210,
+      "name": "Assetto Corsa",
+      "owners_mid": 7500000,
+      "ccu": 8961,
+      "positive": 140238,
+      "negative": 11153
+    },
+    {
+      "appid": 268500,
+      "name": "XCOM 2",
+      "owners_mid": 7500000,
+      "ccu": 3123,
+      "positive": 86187,
+      "negative": 15514
+    },
+    {
+      "appid": 1794680,
+      "name": "Vampire Survivors",
+      "owners_mid": 7500000,
+      "ccu": 2966,
+      "positive": 246479,
+      "negative": 3855
+    },
+    {
+      "appid": 1818750,
+      "name": "MultiVersus",
+      "owners_mid": 7500000,
+      "ccu": 55,
+      "positive": 90318,
+      "negative": 27894
+    },
+    {
+      "appid": 242050,
+      "name": "Assassin’s Creed IV Black Flag",
+      "owners_mid": 7500000,
+      "ccu": 923,
+      "positive": 62942,
+      "negative": 8129
+    },
+    {
+      "appid": 30,
+      "name": "Day of Defeat",
+      "owners_mid": 7500000,
+      "ccu": 87,
+      "positive": 6414,
+      "negative": 688
+    },
+    {
+      "appid": 236850,
+      "name": "Europa Universalis IV",
+      "owners_mid": 7500000,
+      "ccu": 12445,
+      "positive": 116432,
+      "negative": 18004
+    },
+    {
+      "appid": 363970,
+      "name": "Clicker Heroes",
+      "owners_mid": 7500000,
+      "ccu": 2019,
+      "positive": 54989,
+      "negative": 6315
+    },
+    {
+      "appid": 253710,
+      "name": "theHunter Classic",
+      "owners_mid": 7500000,
+      "ccu": 417,
+      "positive": 24959,
+      "negative": 17994
+    },
+    {
+      "appid": 379720,
+      "name": "DOOM",
+      "owners_mid": 7500000,
+      "ccu": 1590,
+      "positive": 198001,
+      "negative": 9278
+    },
+    {
+      "appid": 273350,
+      "name": "Evolve Stage 2",
+      "owners_mid": 7500000,
+      "ccu": 9,
+      "positive": 33844,
+      "negative": 14518
+    },
+    {
+      "appid": 1782210,
+      "name": "Crab Game",
+      "owners_mid": 7500000,
+      "ccu": 2921,
+      "positive": 139538,
+      "negative": 12895
+    },
+    {
+      "appid": 844870,
+      "name": "KurtzPel",
+      "owners_mid": 7500000,
+      "ccu": 30,
+      "positive": 20936,
+      "negative": 13480
+    },
+    {
+      "appid": 601150,
+      "name": "Devil May Cry 5",
+      "owners_mid": 7500000,
+      "ccu": 2248,
+      "positive": 140260,
+      "negative": 5873
+    },
+    {
+      "appid": 1286830,
+      "name": "STAR WARS: The Old Republic",
+      "owners_mid": 7500000,
+      "ccu": 6625,
+      "positive": 60864,
+      "negative": 7088
+    },
+    {
+      "appid": 365670,
+      "name": "Blender",
+      "owners_mid": 7500000,
+      "ccu": 9640,
+      "positive": 70186,
+      "negative": 2695
+    },
+    {
+      "appid": 319630,
+      "name": "Life is Strange - Episode 1",
+      "owners_mid": 7500000,
+      "ccu": 294,
+      "positive": 162769,
+      "negative": 6432
+    },
+    {
+      "appid": 1293830,
+      "name": "Forza Horizon 4",
+      "owners_mid": 7500000,
+      "ccu": 4864,
+      "positive": 263942,
+      "negative": 26975
+    },
+    {
+      "appid": 1145360,
+      "name": "Hades",
+      "owners_mid": 7500000,
+      "ccu": 2253,
+      "positive": 274829,
+      "negative": 4912
+    },
+    {
+      "appid": 671860,
+      "name": "BattleBit Remastered",
+      "owners_mid": 7500000,
+      "ccu": 568,
+      "positive": 120458,
+      "negative": 22666
+    },
+    {
+      "appid": 427520,
+      "name": "Factorio",
+      "owners_mid": 7500000,
+      "ccu": 16426,
+      "positive": 208770,
+      "negative": 6439
+    },
+    {
+      "appid": 221380,
+      "name": "Age of Empires II (Retired)",
+      "owners_mid": 7500000,
+      "ccu": 2278,
+      "positive": 97083,
+      "negative": 4268
+    },
+    {
+      "appid": 231430,
+      "name": "Company of Heroes 2",
+      "owners_mid": 7500000,
+      "ccu": 2330,
+      "positive": 86713,
+      "negative": 23112
+    },
+    {
+      "appid": 813820,
+      "name": "Realm Royale",
+      "owners_mid": 7500000,
+      "ccu": 2,
+      "positive": 43223,
+      "negative": 13520
+    },
+    {
+      "appid": 594570,
+      "name": "Total War: WARHAMMER II",
+      "owners_mid": 7500000,
+      "ccu": 1464,
+      "positive": 114776,
+      "negative": 9476
+    },
+    {
+      "appid": 391540,
+      "name": "Undertale",
+      "owners_mid": 7500000,
+      "ccu": 3331,
+      "positive": 264082,
+      "negative": 8850
+    },
+    {
+      "appid": 976730,
+      "name": "Halo: The Master Chief Collection",
+      "owners_mid": 7500000,
+      "ccu": 3362,
+      "positive": 223635,
+      "negative": 18432
+    },
+    {
+      "appid": 646570,
+      "name": "Slay the Spire",
+      "owners_mid": 7500000,
+      "ccu": 15038,
+      "positive": 178250,
+      "negative": 4027
+    },
+    {
+      "appid": 588650,
+      "name": "Dead Cells",
+      "owners_mid": 7500000,
+      "ccu": 2559,
+      "positive": 163549,
+      "negative": 4915
+    },
+    {
+      "appid": 268910,
+      "name": "Cuphead",
+      "owners_mid": 7500000,
+      "ccu": 2080,
+      "positive": 179894,
+      "negative": 6941
+    },
+    {
+      "appid": 439700,
+      "name": "Z1 Battle Royale: Test Server",
+      "owners_mid": 7500000,
+      "ccu": 1,
+      "positive": 1341,
+      "negative": 1224
+    },
+    {
+      "appid": 500,
+      "name": "Left 4 Dead",
+      "owners_mid": 7500000,
+      "ccu": 774,
+      "positive": 59622,
+      "negative": 2272
+    },
+    {
+      "appid": 1118200,
+      "name": "People Playground",
+      "owners_mid": 7500000,
+      "ccu": 4505,
+      "positive": 277746,
+      "negative": 4017
+    },
+    {
+      "appid": 620,
+      "name": "Portal 2",
+      "owners_mid": 7500000,
+      "ccu": 1959,
+      "positive": 427835,
+      "negative": 5675
+    },
+    {
+      "appid": 1551360,
+      "name": "Forza Horizon 5",
+      "owners_mid": 7500000,
+      "ccu": 10009,
+      "positive": 199950,
+      "negative": 25679
+    },
+    {
+      "appid": 1049590,
+      "name": "Eternal Return",
+      "owners_mid": 7500000,
+      "ccu": 12341,
+      "positive": 51694,
+      "negative": 13352
+    },
+    {
+      "appid": 380,
+      "name": "Half-Life 2: Episode One",
+      "owners_mid": 7500000,
+      "ccu": 18,
+      "positive": 30478,
+      "negative": 1344
+    },
+    {
+      "appid": 360,
+      "name": "Half-Life Deathmatch: Source",
+      "owners_mid": 7500000,
+      "ccu": 43,
+      "positive": 3657,
+      "negative": 1242
+    },
+    {
+      "appid": 779340,
+      "name": "Total War: THREE KINGDOMS",
+      "owners_mid": 7500000,
+      "ccu": 4507,
+      "positive": 74951,
+      "negative": 28794
+    },
+    {
+      "appid": 233450,
+      "name": "Prison Architect",
+      "owners_mid": 7500000,
+      "ccu": 781,
+      "positive": 64439,
+      "negative": 7891
+    },
+    {
+      "appid": 782330,
+      "name": "DOOM Eternal",
+      "owners_mid": 7500000,
+      "ccu": 2262,
+      "positive": 187807,
+      "negative": 18219
+    },
+    {
+      "appid": 223710,
+      "name": "Cry of Fear",
+      "owners_mid": 7500000,
+      "ccu": 405,
+      "positive": 65852,
+      "negative": 8556
+    },
+    {
+      "appid": 513710,
+      "name": "SCUM",
+      "owners_mid": 7500000,
+      "ccu": 8535,
+      "positive": 83704,
+      "negative": 28411
+    },
+    {
+      "appid": 677620,
+      "name": "Splitgate: Arena Warfare",
+      "owners_mid": 7500000,
+      "ccu": 185,
+      "positive": 102336,
+      "negative": 9404
+    },
+    {
+      "appid": 1677740,
+      "name": "Stumble Guys",
+      "owners_mid": 7500000,
+      "ccu": 2928,
+      "positive": 108841,
+      "negative": 19170
+    },
+    {
+      "appid": 109600,
+      "name": "Neverwinter",
+      "owners_mid": 7500000,
+      "ccu": 665,
+      "positive": 29947,
+      "negative": 8638
+    },
+    {
+      "appid": 420,
+      "name": "Half-Life 2: Episode Two",
+      "owners_mid": 7500000,
+      "ccu": 20,
+      "positive": 40556,
+      "negative": 1226
+    },
+    {
+      "appid": 397900,
+      "name": "Business Tour - Board Game with Online Multiplayer",
+      "owners_mid": 7500000,
+      "ccu": 809,
+      "positive": 46567,
+      "negative": 30205
+    },
+    {
+      "appid": 698780,
+      "name": "Doki Doki Literature Club!",
+      "owners_mid": 7500000,
+      "ccu": 427,
+      "positive": 203247,
+      "negative": 7470
+    },
+    {
+      "appid": 435150,
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "owners_mid": 7500000,
+      "ccu": 3510,
+      "positive": 182166,
+      "negative": 7958
+    },
+    {
+      "appid": 1100600,
+      "name": "Football Manager 2020",
+      "owners_mid": 7500000,
+      "ccu": 1012,
+      "positive": 28341,
+      "negative": 3401
+    },
+    {
+      "appid": 1604030,
+      "name": "V Rising",
+      "owners_mid": 7500000,
+      "ccu": 10961,
+      "positive": 106197,
+      "negative": 13243
+    },
+    {
+      "appid": 534380,
+      "name": "Dying Light 2 Stay Human: Reloaded Edition",
+      "owners_mid": 7500000,
+      "ccu": 4223,
+      "positive": 154122,
+      "negative": 40708
+    },
+    {
+      "appid": 766570,
+      "name": "Russian Fishing 4",
+      "owners_mid": 7500000,
+      "ccu": 14950,
+      "positive": 39598,
+      "negative": 33887
+    },
+    {
+      "appid": 548430,
+      "name": "Deep Rock Galactic",
+      "owners_mid": 7500000,
+      "ccu": 5216,
+      "positive": 333587,
+      "negative": 9413
+    },
+    {
+      "appid": 294100,
+      "name": "RimWorld",
+      "owners_mid": 7500000,
+      "ccu": 19211,
+      "positive": 206216,
+      "negative": 4301
+    },
+    {
+      "appid": 273110,
+      "name": "Counter-Strike Nexon: Studio",
+      "owners_mid": 7500000,
+      "ccu": 369,
+      "positive": 28373,
+      "negative": 14329
+    },
+    {
+      "appid": 868270,
+      "name": "The Cycle: Frontier",
+      "owners_mid": 7500000,
+      "ccu": 2,
+      "positive": 28893,
+      "negative": 16529
+    },
+    {
+      "appid": 863550,
+      "name": "HITMAN 2",
+      "owners_mid": 7500000,
+      "ccu": 187,
+      "positive": 68165,
+      "negative": 6778
+    },
+    {
+      "appid": 1237970,
+      "name": "Titanfall 2",
+      "owners_mid": 7500000,
+      "ccu": 1173,
+      "positive": 244524,
+      "negative": 11664
+    },
+    {
+      "appid": 555570,
+      "name": "Infestation: The New Z",
+      "owners_mid": 7500000,
+      "ccu": 70,
+      "positive": 18200,
+      "negative": 15615
+    }
+  ]
+}
